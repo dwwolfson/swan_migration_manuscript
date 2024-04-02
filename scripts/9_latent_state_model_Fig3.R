@@ -15,7 +15,7 @@ if(any(installed_packages == FALSE)){
 invisible(lapply(packages, library, character.only = TRUE))
 
 # most updated version of dataset
-df<-read_csv(here("data/full_dataset_4_28_2023/daily_nsd.csv"))
+df<-read_csv(here("data/daily_nsd.csv"))
 # 126 separate collar deployments
 
 # split years up each summer
@@ -194,7 +194,7 @@ mu_hats2<-data.frame(est=betas_hat$c+betas_hat$a*lats_pred^betas_hat$exp,
                      UCL=conf.int2[,2],
                      latitudes=lats_pred)
 
-# try to use raw latitude values
+# use raw latitude values
 mu_hats1$raw_lats<-mu_hats1$latitudes+min(df$breeding_lat)
 mu_hats2$raw_lats<-mu_hats2$latitudes+min(df$breeding_lat)
 
@@ -202,21 +202,23 @@ ggplot(mu_hats1, aes(raw_lats, est))+
   geom_ribbon(aes(ymin=LCL, ymax=UCL), fill="grey70", alpha=0.5)+
   geom_line()+
   geom_ribbon(data=mu_hats2, aes(ymin=LCL, ymax=UCL), fill="grey70", alpha=0.5)+
-  #geom_line(data=mu_hats2, aes(latitudes, est))+
   geom_point(data=df, aes(breeding_lat, max_nsd, color=groupID), size=2)+
   geom_line(aes(x=lats_pred+min(df$breeding_lat), y=betas_hat$c+betas_hat$a*lats_pred^betas_hat$exp))+
   scale_color_continuous(low='red', high='blue', breaks=c(0,1))+
   labs(x="\nBreeding/Capture Latitude", 
-       y="Extent of Migration (km)\n", 
+       y="Migration Extent (km)\n", 
        color="Probability of Group 1  ")+
   theme_pubr()+
-  theme(text=element_text(size=20),
+  theme(text=element_text(size=20, face='bold'),
+        plot.title=element_text(size=22),
         panel.grid.major = element_line(colour="lightgrey"))
 
 ggsave(here("output/updated_latent_jan_2024/no_randoms.tiff"),
        compression="lzw", dpi=300)
 
-
+# size with aspect ratio closer to 1 instead of longer horizontal
+ggsave(here("figures/figs_for_manuscript/latent_plot.tiff"),
+       compression="lzw", dpi=300, width=6383, height=5195, units="px")
 
 
 

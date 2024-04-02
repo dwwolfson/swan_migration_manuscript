@@ -15,7 +15,7 @@ if(any(installed_packages == FALSE)){
 invisible(lapply(packages, library, character.only = TRUE))
 
 # most updated version of dataset
-df<-read_csv(here("data/full_dataset_4_28_2023/daily_nsd.csv"))
+df<-read_csv(here("data/daily_nsd.csv"))
 # 126 separate collar deployments
 
 # split years up each summer

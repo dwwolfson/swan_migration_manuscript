@@ -21,30 +21,30 @@ provinces<-ne_states(country="Canada")
 
 # start basemap (note the argument to hide the zoom buttons)
 leaflet(options = leafletOptions(zoomControl = FALSE)) %>% 
-   
-   # add basemap
-   addProviderTiles(providers$Esri.WorldPhysical) %>% 
-
-   # add state boundaries and labels
-   addPolygons(data=states,
-               fill=NA,
-               weight=2,
-               color="lightgrey",
-               opacity=1) %>% 
-   
-   # add province boundaries
-   addPolygons(data=provinces,
-               fill=NA,
-               weight=2,
-               color="lightgrey",
-               opacity=1) %>% 
-   
-# focus map on proper area and zoom
-   setView(-90, 45, zoom=5) %>% 
-   
-   # add scale bar
-   addScaleBar(position="bottomright") %>% 
-   
+  
+  # add basemap
+  addProviderTiles(providers$Esri.WorldPhysical) %>% 
+  
+  # add state boundaries and labels
+  addPolygons(data=states,
+              fill=NA,
+              weight=2,
+              color="lightgrey",
+              opacity=1) %>% 
+  
+  # add province boundaries
+  addPolygons(data=provinces,
+              fill=NA,
+              weight=2,
+              color="lightgrey",
+              opacity=1) %>% 
+  
+  # focus map on proper area and zoom
+  setView(-90, 45, zoom=5) %>% 
+  
+  # add scale bar
+  addScaleBar(position="bottomright") %>% 
+  
   # add inset map
   addMiniMap(
     tiles = providers$Esri.WorldPhysical,
@@ -54,8 +54,8 @@ leaflet(options = leafletOptions(zoomControl = FALSE)) %>%
   
   
   # add graticules
-   addSimpleGraticule(interval = 10) %>%
- 
+  addSimpleGraticule(interval = 10) %>%
+  
   
   # add points
   addCircleMarkers(data=df, ~Longitude, ~Latitude,
@@ -64,4 +64,3 @@ leaflet(options = leafletOptions(zoomControl = FALSE)) %>%
                    fillColor = 'darkslategrey',
                    radius = 2, 
                    fillOpacity = 0.8)
-

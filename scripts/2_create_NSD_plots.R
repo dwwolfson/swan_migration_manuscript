@@ -52,9 +52,6 @@ for (i in seq_along(ids)) {
   yrs <- unique(nsd_sub[nsd_sub$id == ids[[i]], "yr"])
   ggplot(nsd_sub[nsd_sub$id == ids[[i]], ], aes(jdate, sqrt(daily_nsd) / 1000)) +
     geom_line() +
-    # geom_hline(yintercept=100, color="red")+
-    # geom_hline(yintercept=75, color="blue")+
-    # geom_hline(yintercept=50, color="green")+
     geom_vline(xintercept = as.Date(c("2019-07-01", "2020-07-01", "2021-07-01", "2022-07-01")), color = "orange") +
     labs(y = "displacement in km", x = "Date", title = paste(ids[[i]], yrs, sep = "-")) +
     theme(plot.title = element_text(size = 22))

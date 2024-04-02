@@ -1,0 +1,392 @@
+swan_ID,id_year,fall_mig_onset,spring_arrival,spring_arrival_comment,mig_duration,mig_duration_comment,fall_mig_onset_comment,breeding_status,cygnets,sex,lead,breeding_lat,breeding_longitude,fall_yr,spring_yr,entire_yr
+2A,2A-2019-2020,2020-10-21,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,4,F,NA,47.721362,-94.749709,2019,2020,2019-2020
+4A,4A-2019-2020,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,NA,47.49753,-92.0700803,2019,2020,2019-2020
+5A,5A-2019-2020,2020-10-24,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,non_breeder,NA,F,NA,48.482692,-94.8690244,2019,2020,2019-2020
+6A,6A-2019-2020,2020-11-08,2020-03-07,NA,120.09940999999998,NA,NA,breeder,3,F,NA,46.54242,-93.491985,2019,2020,2019-2020
+3A,3A-2019-2020,2020-11-03,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,non_breeder,0,F,NA,46.96702,-91.928879,2019,2020,2019-2020
+2J,2J-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,F,NA,45.712552,-86.11812,2021,2022,2021-2022
+7A,7A-2019-2020,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,6,F,NA,47.049928,-94.924069,2019,2020,2019-2020
+3J,3J-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,F,NA,45.008628,-86.136235,2020,2021,2020-2021
+5J,5J-2019-2020,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,6,F,NA,44.401589,-85.574128,2019,2020,2019-2020
+4J,4J-2019-2020,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,F,NA,43.7949,-85.953877,2019,2020,2019-2020
+4J,4J-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,F,NA,43.7949,-85.953877,2020,2021,2020-2021
+4J,4J-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,F,NA,43.7949,-85.953877,2021,2022,2021-2022
+6J,6J-2019-2020,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,M,NA,42.9482565,-85.1445124,2019,2020,2019-2020
+6J,6J-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,M,NA,42.9482565,-85.1445124,2020,2021,2020-2021
+7J,7J-2019-2020,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,M,NA,42.3049808,-85.3389189,2019,2020,2019-2020
+7J,7J-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,M,NA,42.3049808,-85.3389189,2020,2021,2020-2021
+7J,7J-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,M,NA,42.3049808,-85.3389189,2021,2022,2021-2022
+9J (first deployment),9J (first deployment)-2019-2020,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,1,F,NA,42.259404,-85.350384,2019,2020,2019-2020
+9A,9A-2019-2020,2020-11-06,2020-03-01,NA,116.0085813,NA,NA,breeder,1,F,NA,45.002535,-93.626971,2019,2020,2019-2020
+9A,9A-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,1,F,NA,45.002535,-93.626971,2020,2021,2020-2021
+2K,2K-2019-2020,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,breeder,5,F,NA,46.309654,-95.658605,2019,2020,2019-2020
+2K,2K-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,F,NA,46.309654,-95.658605,2020,2021,2020-2021
+2K,2K-2021-2022,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,F,NA,46.309654,-95.658605,2021,2022,2021-2022
+3K,3K-2019-2020,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,non_breeder,0,F,NA,46.294051,-96.399557,2019,2020,2019-2020
+3K,3K-2020-2021,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,non_breeder,0,F,NA,46.294051,-96.399557,2020,2021,2020-2021
+3K,3K-2021-2022,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,F,NA,46.294051,-96.399557,2021,2022,2021-2022
+4K,4K-2019-2020,2020-10-29,2020-03-23,NA,145.999819,NA,NA,breeder,1,F,NA,46.291574,-95.683891,2019,2020,2019-2020
+4K,4K-2020-2021,2020-12-15,2020-03-13,NA,88.58997359999998,NA,NA,breeder,1,F,NA,46.291574,-95.683891,2020,2021,2020-2021
+4K,4K-2021-2022,2020-11-27,2020-03-16,NA,109.99492280000001,NA,NA,breeder,1,F,NA,46.291574,-95.683891,2021,2022,2021-2022
+6K,6K-2019-2020,2020-11-05,2020-02-08,NA,94.9989708,NA,NA,breeder,2,F,NA,46.233807,-85.70311,2019,2020,2019-2020
+6K,6K-2020-2021,2020-10-10,2020-01-31,NA,112.82080429999999,NA,NA,breeder,2,F,NA,46.233807,-85.70311,2020,2021,2020-2021
+6K,6K-2021-2022,2020-09-23,2020-01-18,NA,116.78060911,NA,NA,breeder,2,F,NA,46.233807,-85.70311,2021,2022,2021-2022
+5K,5K-2019-2020,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,F,NA,46.356399,-92.471589,2019,2020,2019-2020
+8A,8A-2020-2021,2020-12-24,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,paired,0,F,63.8,44.817844,-93.2286863,2020,2021,2020-2021
+8A,8A-2021-2022,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,63.8,44.817844,-93.2286863,2021,2022,2021-2022
+1A,1A-2020-2021,2020-10-17,2020-03-01,NA,135.9982373,NA,NA,paired,0,M,21.2,45.002486,-93.611393,2020,2021,2020-2021
+1A,1A-2021-2022,2020-10-17,2020-03-01,NA,136.45983869999998,NA,NA,paired,0,M,21.2,45.002486,-93.611393,2021,2022,2021-2022
+1A,1A-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,M,21.2,45.002486,-93.611393,2022,2023,2022-2023
+0A,0A-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,33.3,45.055793,-93.752159,2020,2021,2020-2021
+0A,0A-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,33.3,45.055793,-93.752159,2022,2023,2022-2023
+1E,1E-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,60.5,44.8678,-93.81828,2020,2021,2020-2021
+1E,1E-2021-2022,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,paired,0,F,60.5,44.8678,-93.81828,2021,2022,2021-2022
+1E,1E-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,60.5,44.8678,-93.81828,2022,2023,2022-2023
+2E,2E-2020-2021,2020-10-23,2020-03-12,NA,141.00038339999998,NA,NA,paired,0,M,305.3,46.5360944,-96.20328,2020,2021,2020-2021
+2E,2E-2021-2022,2020-11-16,2020-03-15,NA,120.00068049999999,NA,NA,paired,0,M,305.3,46.5360944,-96.20328,2021,2022,2021-2022
+0E,0E-2020-2021,2020-10-24,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,paired,0,F,338.5,46.8046539,-93.6960743,2020,2021,2020-2021
+9E,9E-2020-2021,2020-11-16,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,paired,0,F,107.5,46.8419568,-93.2178857,2020,2021,2020-2021
+8E,8E-2020-2021,2020-11-29,2020-03-05,NA,97.00307090000001,NA,NA,non_breeder,0,M,32.3,46.9190281,-93.5191427,2020,2021,2020-2021
+6E,6E-2020-2021,2020-09-26,2020-03-14,NA,169.58564753000002,NA,NA,non_breeder,0,M,66.2,46.634439,-92.776876,2020,2021,2020-2021
+6E,6E-2021-2022,2020-10-17,2020-03-27,NA,162.4964651,NA,NA,non_breeder,0,M,66.2,46.634439,-92.776876,2021,2022,2021-2022
+6E,6E-2022-2023,2020-10-07,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,non_breeder,0,M,66.2,46.634439,-92.776876,2022,2023,2022-2023
+7E,7E-2020-2021,2020-12-23,2020-03-03,NA,71.00203190000002,NA,NA,breeder,5,F,36.1,43.933905,-94.861006,2020,2021,2020-2021
+7E,7E-2021-2022,2020-12-08,2020-02-18,NA,71.38449200000002,NA,NA,breeder,5,F,36.1,43.933905,-94.861006,2021,2022,2021-2022
+7E,7E-2022-2023,2020-12-01,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,5,F,36.1,43.933905,-94.861006,2022,2023,2022-2023
+1R,1R-2020-2021,2020-11-28,2020-02-26,NA,90.00047899999998,NA,NA,breeder,4,F,28.4,43.858343,-95.090119,2020,2021,2020-2021
+0R,0R-2020-2021,2020-11-12,2020-03-02,NA,111.00144460000001,NA,NA,breeder,5,F,28.4,44.008855,-95.271487,2020,2021,2020-2021
+0R,0R-2021-2022,2020-11-26,2020-03-02,NA,97.00002269999999,NA,NA,breeder,5,F,28.4,44.008855,-95.271487,2021,2022,2021-2022
+0R,0R-2022-2023,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,breeder,5,F,28.4,44.008855,-95.271487,2022,2023,2022-2023
+0H,0H-2020-2021,2020-10-21,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,0,M,NA,51.050226,-96.833822,2020,2021,2020-2021
+0H,0H-2021-2022,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,breeder,0,M,NA,51.050226,-96.833822,2021,2022,2021-2022
+3R,3R-2020-2021,2020-10-25,2020-02-26,NA,124.00068660000001,NA,NA,breeder,3,F,46.7,43.965941,-94.758631,2020,2021,2020-2021
+3R,3R-2021-2022,2020-11-26,2020-03-03,NA,97.9977443,NA,NA,breeder,3,F,46.7,43.965941,-94.758631,2021,2022,2021-2022
+3R,3R-2022-2023,2020-11-10,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,3,F,46.7,43.965941,-94.758631,2022,2023,2022-2023
+2R,2R-2020-2021,2020-11-05,2020-02-27,NA,113.73045830000001,NA,NA,breeder,1,F,209.7,44.54568,-94.418528,2020,2021,2020-2021
+1H,1H-2020-2021,2020-09-01,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,non_breeder,0,M,NA,49.700347,-96.20328,2020,2021,2020-2021
+1H,1H-2021-2022,2020-11-16,2020-03-12,NA,117.23883669999998,NA,NA,non_breeder,0,M,NA,49.700347,-96.20328,2021,2022,2021-2022
+2H,2H-2020-2021,2020-09-02,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,non_breeder,0,F,NA,49.700347,-93.885301,2020,2021,2020-2021
+3H,3H-2020-2021,2020-10-19,2020-03-04,NA,136.9817624,NA,NA,breeder,4,F,NA,49.599171,-83.885587,2020,2021,2020-2021
+3H,3H-2021-2022,2020-10-22,2020-03-19,NA,149.0856584,NA,NA,breeder,4,F,NA,49.599171,-83.885587,2021,2022,2021-2022
+3H,3H-2022-2023,2020-11-09,2020-04-01,NA,143.99940180000002,NA,NA,breeder,4,F,NA,49.599171,-83.885587,2022,2023,2022-2023
+4H,4H-2020-2021,2020-10-28,2020-03-18,NA,142.0028287,NA,NA,non_breeder,0,M,NA,50.602661,-84.27195,2020,2021,2020-2021
+4H,4H-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,M,NA,50.602661,-84.27195,2021,2022,2021-2022
+5H,5H-2020-2021,2020-10-27,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,NA,0,F,NA,50.830895,-96.82546,2020,2021,2020-2021
+6R,6R-2020-2021,2020-09-27,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,paired,0,M,150.8,46.824104,-94.152856,2020,2021,2020-2021
+5R,5R-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,75.8,46.766629,-95.191584,2020,2021,2020-2021
+5R,5R-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,75.8,46.766629,-95.191584,2021,2022,2021-2022
+4R,4R-2020-2021,2020-10-28,2020-03-08,NA,132.04408919999997,NA,NA,breeder,4,F,129.2,47.548893,-93.75311,2020,2021,2020-2021
+4R,4R-2021-2022,2020-11-12,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,4,F,129.2,47.548893,-93.75311,2021,2022,2021-2022
+3E,3E-2020-2021,2020-12-23,2020-03-02,NA,70.04222379999999,NA,NA,breeder,3,M,22.5,44.882535,-95.875973,2020,2021,2020-2021
+3E,3E-2021-2022,2020-11-11,2020-03-02,NA,111.8197605,NA,NA,breeder,3,M,22.5,44.882535,-95.875973,2021,2022,2021-2022
+0M,0M-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,F,100.1,41.4623,-83.02197,2020,2021,2020-2021
+0M,0M-2021-2022,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,non_breeder,0,F,100.1,41.4623,-83.02197,2021,2022,2021-2022
+0M,0M-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,F,100.1,41.4623,-83.02197,2022,2023,2022-2023
+7R,7R-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,F,42.9,47.660391,-94.748534,2021,2022,2021-2022
+8R,8R-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,103.3,47.500505,-94.954397,2020,2021,2020-2021
+8R,8R-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,103.3,47.500505,-94.954397,2021,2022,2021-2022
+9R,9R-2020-2021,2020-09-27,2020-03-23,NA,177.51848254,NA,NA,non_breeder,0,M,118.5,47.025037,-94.537675,2020,2021,2020-2021
+9R,9R-2021-2022,2020-11-24,2020-03-15,NA,112.00193449999998,NA,NA,non_breeder,0,M,118.5,47.025037,-94.537675,2021,2022,2021-2022
+9R,9R-2022-2023,2020-11-09,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,non_breeder,0,M,118.5,47.025037,-94.537675,2022,2023,2022-2023
+2T,2T-2020-2021,2020-10-29,2020-03-04,NA,127.3977435,NA,NA,breeder,1,M,28.4,46.153865,-95.66579,2020,2021,2020-2021
+2T,2T-2021-2022,2020-12-23,2020-03-03,NA,70.97750779999998,NA,NA,breeder,1,M,28.4,46.153865,-95.66579,2021,2022,2021-2022
+2T,2T-2022-2023,2020-12-15,2020-03-14,NA,89.99826959999999,NA,NA,breeder,1,M,28.4,46.153865,-95.66579,2022,2023,2022-2023
+0N,0N-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,F,16,41.62445,-83.2282,2020,2021,2020-2021
+3T,3T-2021-2022,2020-11-17,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,non_breeder,0,F,541.5,46.105333,-94.942478,2021,2022,2021-2022
+1N,1N-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,1,M,80,41.62236,-83.21336,2020,2021,2020-2021
+1N,1N-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,1,M,80,41.62236,-83.21336,2021,2022,2021-2022
+2N,2N-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,1,F,107.4,41.62871,-89.296,2020,2021,2020-2021
+3N,3N-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,F,62.7,41.62079,-89.296,2020,2021,2020-2021
+3N,3N-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,F,62.7,41.62079,-89.296,2021,2022,2021-2022
+6T,6T-2020-2021,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,non_breeder,0,M,68,45.480052,-93.702469,2020,2021,2020-2021
+6T,6T-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,M,68,45.480052,-93.702469,2021,2022,2021-2022
+6H,6H-2020-2021,2020-10-23,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,0,M,NA,49.17177,-95.480271,2020,2021,2020-2021
+7H,7H-2020-2021,2020-10-19,2020-03-03,NA,136.343213,NA,NA,paired,0,M,NA,49.653416,-96.225019,2020,2021,2020-2021
+8H,8H-2020-2021,2020-10-17,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,paired,0,F,NA,50.291275,-95.697579,2020,2021,2020-2021
+1M,1M-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,4,F,33.3,41.43333,-83.01498,2020,2021,2020-2021
+1M,1M-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,4,F,33.3,41.43333,-83.01498,2021,2022,2021-2022
+2M,2M-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,39.8,41.46111,-83.20747,2020,2021,2020-2021
+2M,2M-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,39.8,41.46111,-83.20747,2021,2022,2021-2022
+2M,2M-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,39.8,41.46111,-83.20747,2022,2023,2022-2023
+3M,3M-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,93.1,41.43033,-83.2209,2020,2021,2020-2021
+4N,4N-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,F,21.8,40.70984,-92.626214,2020,2021,2020-2021
+4N,4N-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,F,21.8,40.70984,-92.626214,2021,2022,2021-2022
+5N,5N-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,6,F,52,40.72501,-90.09283,2020,2021,2020-2021
+5N,5N-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,6,F,52,40.72501,-90.09283,2021,2022,2021-2022
+6N,6N-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,F,58.4,40.71111,-83.29391,2020,2021,2020-2021
+6N,6N-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,F,58.4,40.71111,-83.29391,2021,2022,2021-2022
+1T,1T-2020-2021,2020-10-25,2020-03-08,NA,134.9686436,NA,NA,breeder,5,F,24.5,47.50938,-95.78446,2020,2021,2020-2021
+1T,1T-2021-2022,2020-11-18,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,5,F,24.5,47.50938,-95.78446,2021,2022,2021-2022
+8T,8T-2020-2021,2020-09-30,2020-03-08,NA,159.99430628,NA,NA,paired,0,F,83.8,47.57929,-94.46577,2020,2021,2020-2021
+8T,8T-2021-2022,2020-10-26,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,paired,0,F,83.8,47.57929,-94.46577,2021,2022,2021-2022
+5T,5T-2020-2021,2020-12-01,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,4,F,20.3,45.399181,-93.344731,2020,2021,2020-2021
+7T,7T-2020-2021,2020-10-26,2020-03-05,NA,131.00359989999998,NA,NA,breeder,6,F,40.3,45.108924,-96.08885,2020,2021,2020-2021
+7T,7T-2021-2022,2020-11-19,2020-03-03,NA,104.9988539,NA,NA,breeder,6,F,40.3,45.108924,-96.08885,2021,2022,2021-2022
+7T,7T-2022-2023,2020-11-15,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,6,F,40.3,45.108924,-96.08885,2022,2023,2022-2023
+1L,1L-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,F,39.4,45.987785,-95.86655,2020,2021,2020-2021
+1L,1L-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,F,39.4,45.987785,-95.86655,2021,2022,2021-2022
+1L,1L-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,F,39.4,45.987785,-95.86655,2022,2023,2022-2023
+0L,0L-2020-2021,2020-10-24,2020-03-06,NA,134.0368201,NA,NA,paired,0,F,28.1,46.989949,-95.981508,2020,2021,2020-2021
+4T,4T-2020-2021,2020-11-16,2020-03-07,NA,111.99944490000001,NA,NA,breeder,2,F,1076.3,47.27225,-95.933853,2020,2021,2020-2021
+4T,4T-2021-2022,2020-11-24,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,2,F,1076.3,47.27225,-95.933853,2021,2022,2021-2022
+4T,4T-2022-2023,2020-11-11,2020-02-27,NA,107.53651010000002,NA,NA,breeder,2,F,1076.3,47.27225,-95.933853,2022,2023,2022-2023
+3L,3L-2020-2021,2020-11-16,2020-03-03,NA,108.00022489999998,NA,NA,breeder,2,F,19.4,47.445539,-83.00233,2020,2021,2020-2021
+3L,3L-2021-2022,2020-11-24,2020-03-18,NA,115.00353279999999,NA,NA,breeder,2,F,19.4,47.445539,-83.00233,2021,2022,2021-2022
+4L,4L-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,M,21,46.90478,-83.194573,2020,2021,2020-2021
+4L,4L-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,M,21,46.90478,-83.194573,2021,2022,2021-2022
+4L,4L-2022-2023,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,2,M,21,46.90478,-83.194573,2022,2023,2022-2023
+7N,7N-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,105.4,40.58738,-83.29928,2020,2021,2020-2021
+7N,7N-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,105.4,40.58738,-83.29928,2021,2022,2021-2022
+7N,7N-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,105.4,40.58738,-83.29928,2022,2023,2022-2023
+5E,5E-2020-2021,2020-10-22,2020-03-07,NA,137.0311618,NA,NA,breeder,2,F,72.3,48.956299,-95.308611,2020,2021,2020-2021
+5E,5E-2021-2022,2020-10-20,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,2,F,72.3,48.956299,-95.308611,2021,2022,2021-2022
+4E,4E-2020-2021,2020-11-02,2020-03-05,NA,124.3928119,NA,NA,non_breeder,0,M,342,48.48005,-95.44075,2020,2021,2020-2021
+6L,6L-2020-2021,2020-11-23,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,1,M,26.6,48.342056,-92.923356,2020,2021,2020-2021
+9J (swan originally collared as 5J),9J (swan originally collared as 5J)-2020-2021,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,breeder,1,F,15.8,44.38976643,-85.74935566,2020,2021,2020-2021
+9J (swan originally collared as 5J),9J (swan originally collared as 5J)-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,1,F,15.8,44.38976643,-85.74935566,2021,2022,2021-2022
+5L,5L-2020-2021,2020-10-23,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,cygnet,NA,F,7.2,47.694633,-80.897926,2020,2021,2020-2021
+5L,5L-2021-2022,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",cygnet,NA,F,7.2,47.694633,-80.897926,2021,2022,2021-2022
+7K,7K-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,M,113.1,44.36273286,-83.46826502,2020,2021,2020-2021
+7K,7K-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,M,113.1,44.36273286,-83.46826502,2021,2022,2021-2022
+0C,0C-2020-2021,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,NA,breeder,4,M,34,43.207806,-93.780399,2020,2021,2020-2021
+2C,2C-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,8,M,33.1,43.324499,-93.3664868,2020,2021,2020-2021
+2C,2C-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,8,M,33.1,43.324499,-93.3664868,2021,2022,2021-2022
+2C,2C-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,8,M,33.1,43.324499,-93.3664868,2022,2023,2022-2023
+1C,1C-2020-2021,2020-12-21,2020-03-02,NA,72.0608685,NA,NA,breeder,4,M,104.2,43.12184,-93.012207,2020,2021,2020-2021
+1C,1C-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,4,M,104.2,43.12184,-93.012207,2021,2022,2021-2022
+1C,1C-2022-2023,2020-11-14,2020-02-25,NA,102.89954080000001,NA,NA,breeder,4,M,104.2,43.12184,-93.012207,2022,2023,2022-2023
+3C,3C-2020-2021,NA,2020-02-26,NA,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,142.9,41.796812,-93.686421,2020,2021,2020-2021
+3C,3C-2021-2022,NA,2020-02-15,NA,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,142.9,41.796812,-93.686421,2021,2022,2021-2022
+3C,3C-2022-2023,2020-12-20,2020-02-06,NA,47.9968619,NA,NA,breeder,5,M,142.9,41.796812,-93.686421,2022,2023,2022-2023
+4C,4C-2020-2021,2020-09-30,2020-02-28,NA,151.02974524,NA,NA,breeder,5,M,206.6,43.3214114,-95.858272,2020,2021,2020-2021
+4C,4C-2021-2022,2020-11-16,2020-02-15,NA,90.9990866,NA,NA,breeder,5,M,206.6,43.3214114,-95.858272,2021,2022,2021-2022
+4C,4C-2022-2023,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,breeder,5,M,206.6,43.3214114,-95.858272,2022,2023,2022-2023
+9H,9H-2020-2021,2020-10-22,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,4,M,NA,49.174954,-99.481547,2020,2021,2020-2021
+5C,5C-2020-2021,2020-10-25,2020-02-26,NA,124.00062929999999,NA,NA,breeder,2,M,30.3,43.2926886,-96.014582,2020,2021,2020-2021
+5C,5C-2021-2022,2020-12-05,2020-02-10,NA,178.89232933,NA,NA,breeder,2,M,30.3,43.2926886,-96.014582,2021,2022,2021-2022
+5C,5C-2022-2023,2020-12-09,2020-02-19,NA,71.99877949999998,NA,NA,breeder,2,M,30.3,43.2926886,-96.014582,2022,2023,2022-2023
+2P,2P-2020-2021,2020-11-24,2020-03-01,NA,98.46546990000002,NA,NA,cygnet,NA,F,26.3,44.028,-94.410654,2020,2021,2020-2021
+3P,3P-2020-2021,2020-11-30,2020-03-01,NA,91.998208,NA,NA,cygnet,NA,F,26.4,44.028,-95.382517000000007,2020,2021,2020-2021
+3P,3P-2021-2022,2020-09-24,2020-03-01,NA,158.93560035,NA,NA,cygnet,NA,F,26.4,44.028,-95.382517000000007,2021,2022,2021-2022
+1P,1P-2021-2022,2020-12-07,2020-03-26,NA,110.00054890000001,NA,NA,cygnet,NA,F,25.9,44.028,-89.296,2021,2022,2021-2022
+1P,1P-2022-2023,2020-11-12,2020-02-21,NA,101.06529939999999,NA,NA,cygnet,NA,F,25.9,44.028,-89.296,2022,2023,2022-2023
+6C,6C-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,4,M,34,43.2719248,-94.32537,2020,2021,2020-2021
+6C,6C-2021-2022,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,can't consider a migrant with only 1 changepoint,breeder,4,M,34,43.2719248,-94.32537,2021,2022,2021-2022
+7C,7C-2020-2021,2020-12-24,2020-02-27,NA,64.99521339999998,NA,NA,breeder,4,M,27.2,43.2859292,-93.4644565,2020,2021,2020-2021
+7C,7C-2021-2022,2020-10-23,2020-02-09,NA,108.68088089999999,NA,NA,breeder,4,M,27.2,43.2859292,-93.4644565,2021,2022,2021-2022
+7C,7C-2022-2023,2020-12-19,2020-02-07,NA,50.000732700000015,NA,NA,breeder,4,M,27.2,43.2859292,-93.4644565,2022,2023,2022-2023
+0T_2nd,0T_2nd-2020-2021,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,77.1,45.275751,-94.536974,2020,2021,2020-2021
+0T_2nd,0T_2nd-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,77.1,45.275751,-94.536974,2021,2022,2021-2022
+8C,8C-2020-2021,2020-12-18,2020-03-05,NA,78.00347500000001,NA,NA,breeder,5,M,14.5,42.9356562,-95.4885453,2020,2021,2020-2021
+8C,8C-2021-2022,NA,2020-03-11,NA,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,14.5,42.9356562,-95.4885453,2021,2022,2021-2022
+8C,8C-2022-2023,2020-11-28,2020-02-20,NA,83.99796809999998,NA,NA,breeder,5,M,14.5,42.9356562,-95.4885453,2022,2023,2022-2023
+4P,4P-2020-2021,2020-11-16,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,cygnet,NA,M,6.1,45.846744,-94.361236,2020,2021,2020-2021
+4P,4P-2021-2022,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",cygnet,NA,M,6.1,45.846744,-94.361236,2021,2022,2021-2022
+0P,0P-2020-2021,2020-11-01,2020-03-07,NA,126.9951561,NA,NA,non_breeder,0,M,NA,45.815115,-92.648518,2020,2021,2020-2021
+0P,0P-2021-2022,2020-10-27,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,non_breeder,0,M,NA,45.815115,-92.648518,2021,2022,2021-2022
+0E_2nd,0E_2nd-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,M,76,44.544246,-94.414685,2021,2022,2021-2022
+6L_2nd,6L_2nd-2021-2022,2020-11-20,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,paired,0,F,107.7,46.842248,-93.217903,2021,2022,2021-2022
+9H_2nd,9H_2nd-2021-2022,2020-10-22,2020-03-20,NA,149.7591114,NA,NA,breeder,3,M,29.4,46.93839,-93.523546,2021,2022,2021-2022
+9H_2nd,9H_2nd-2022-2023,2020-11-07,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,3,M,29.4,46.93839,-93.523546,2022,2023,2022-2023
+2H_2nd,2H_2nd-2021-2022,2020-12-03,2020-03-14,NA,101.50695689999998,NA,NA,breeder,3,F,21.6,46.64434,-84.682521,2021,2022,2021-2022
+2H_2nd,2H_2nd-2022-2023,2020-11-10,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,3,F,21.6,46.64434,-84.682521,2022,2023,2022-2023
+9P,9P-2021-2022,2020-10-25,2020-03-01,NA,127.8225305,NA,NA,paired,0,F,19.7,44.34275,-90.15958,2021,2022,2021-2022
+8N,8N-2021-2022,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,F,113.5,41.00855,-81.96515,2021,2022,2021-2022
+9N,9N-2021-2022,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,F,114.5,40.3749276,-83.0363433,2021,2022,2021-2022
+9N,9N-2022-2023,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,F,114.5,40.3749276,-83.0363433,2022,2023,2022-2023
+4M,4M-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,M,211.4,40.555457,-83.36927,2021,2022,2021-2022
+4M,4M-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,M,211.4,40.555457,-83.36927,2022,2023,2022-2023
+5M,5M-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,F,130.4,41.440813,-83.31952,2021,2022,2021-2022
+5M,5M-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,3,F,130.4,41.440813,-83.31952,2022,2023,2022-2023
+5P,5P-2021-2022,2020-11-17,2020-02-29,NA,104.01835409999998,NA,NA,breeder,7,F,21.3,46.14319,-94.367102,2021,2022,2021-2022
+6M,6M-2021-2022,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,F,83.1,41.4604145,-80.836771,2021,2022,2021-2022
+6M,6M-2022-2023,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,F,83.1,41.4604145,-80.836771,2022,2023,2022-2023
+7M,7M-2022-2023,NA,NA,no spring arrival date because less than 3 intercepts,NA,need at least 3 intercepts to get migration duration,NA,non_breeder,0,F,143.2,41.4604145,-80.836771,2022,2023,2022-2023
+8M,8M-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,1,F,93.1,41.422667,-80.806029,2021,2022,2021-2022
+8M,8M-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,1,F,93.1,41.422667,-80.806029,2022,2023,2022-2023
+6R_2nd,6R_2nd-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,94.5,44.67474,-93.936177,2021,2022,2021-2022
+6R_2nd,6R_2nd-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,F,94.5,44.67474,-93.936177,2022,2023,2022-2023
+0L_2nd,0L_2nd-2021-2022,2020-12-05,2020-03-03,NA,88.99337930000002,NA,NA,paired,0,F,272.3,45.018178,-94.336019,2021,2022,2021-2022
+0L_2nd,0L_2nd-2022-2023,2020-12-15,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,paired,0,F,272.3,45.018178,-94.336019,2022,2023,2022-2023
+8E_2nd,8E_2nd-2021-2022,2020-09-22,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,non_breeder,0,F,90.9,45.101268,-94.629201,2021,2022,2021-2022
+8E_2nd,8E_2nd-2022-2023,2020-11-16,2020-02-29,NA,105.0035986,NA,NA,non_breeder,0,F,90.9,45.101268,-94.629201,2022,2023,2022-2023
+7P,7P-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,M,72.1,45.81625,-92.6461,2021,2022,2021-2022
+7P,7P-2022-2023,NA,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",non_breeder,0,M,72.1,45.81625,-92.6461,2022,2023,2022-2023
+9M,9M-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",paired,0,M,30.6,41.067061,-81.607297,2021,2022,2021-2022
+9C,9C-2021-2022,2020-09-15,2020-02-07,NA,144.94183218999999,NA,NA,breeder,2,F,21.5,43.472908,-95.062969,2021,2022,2021-2022
+0C_2nd,0C_2nd-2021-2022,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,113.3,41.9015197,-90.7588452,2021,2022,2021-2022
+0C_2nd,0C_2nd-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,5,M,113.3,41.9015197,-90.7588452,2022,2023,2022-2023
+5H_2nd,5H_2nd-2021-2022,2020-11-11,2020-04-05,NA,145.97777539999998,NA,NA,breeder,0,M,NA,51.050226,-85.739031,2021,2022,2021-2022
+5H_2nd,5H_2nd-2022-2023,2020-10-22,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,0,M,NA,51.050226,-85.739031,2022,2023,2022-2023
+6P,6P-2021-2022,2020-11-22,NA,first and last intercepts not within 30 km,NA,lack of fall departure and/or spring arrival,NA,breeder,1,F,48.4,46.103775,-95.734061,2021,2022,2021-2022
+0N_2nd,0N_2nd-2021-2022,2020-12-15,2020-03-03,NA,78.99434059999999,NA,NA,paired,0,M,62.7,46.242133,-96.047296,2021,2022,2021-2022
+0N_2nd,0N_2nd-2022-2023,2020-11-15,2020-03-22,NA,128.123154,NA,NA,paired,0,M,62.7,46.242133,-96.047296,2022,2023,2022-2023
+6C_2nd,6C_2nd-2022-2023,NA,NA,"last changepoint not during winter/spring/summer (Dec-July),
+or last movement away from origin, or 
+difference between max and last int not above 100 km",NA,lack of fall departure and/or spring arrival,"no onset because swan didn't fly far enough away, wasn't moving away from origin, or movement wasn't during fall",breeder,1,M,136.4,41.77764,-94.32537,2022,2023,2022-2023
+7,7L-2021-2022,NA,2020-04-08,NA,NA,lack of fall departure and/or spring arrival,swan collared already on wintering,NA,NA,NA,NA,NA,NA,2021,2022,2021-2022
+7,7L-2022-2023,2020-11-16,NA,Incomplete data coverage,NA,lack of fall departure and/or spring arrival,NA,NA,NA,NA,NA,NA,NA,2022,2023,2022-2023
+8,8L-2021-2022,NA,2020-04-03,NA,NA,lack of fall departure and/or spring arrival,swan collared already on wintering,NA,NA,NA,NA,NA,NA,2021,2022,2021-2022
+8,8L-2022-2023,2020-11-10,2020-04-08,NA,150,NA,NA,NA,NA,NA,NA,NA,NA,2022,2023,2022-2023
+9,9L-2021-2022,NA,2020-04-11,NA,NA,lack of fall departure and/or spring arrival,swan collared already on wintering,NA,NA,NA,NA,NA,NA,2021,2022,2021-2022
+9,9L-2022-2023,2020-11-04,NA,Incomplete data coverage,NA,lack of fall departure and/or spring arrival,NA,NA,NA,NA,NA,NA,NA,2022,2023,2022-2023

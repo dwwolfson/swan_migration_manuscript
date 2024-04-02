@@ -10,10 +10,8 @@ if (any(installed_packages == FALSE)) {
 # load packages
 invisible(lapply(packages, library, character.only = TRUE))
 
-source(here("scripts/ggplot_custom_function.R"))
-
 # read in full dataset
-df <- read_csv(here("data/full_dataset_4_28_2023/daily_nsd.csv"))
+df <- read_csv(here("data/daily_nsd.csv"))
 
 # create variable for 'swan-year' using summer as endpoints
 df$yr <- year(df$timestamp)
@@ -56,7 +54,7 @@ p1<-ggplot(nsd_sub, aes(jdate, sqrt(daily_nsd) / 1000)) +
   
 ggsave(p1, file = "figures/figs_for_manuscript/nsd_example.jpeg", width = 6, height = 9, dpi=300, units = "in",bg="white")  
 
-# Now refit the mcp model to this year? Or just use the figure of the already fitted model object?
+# Now refit the mcp model
 # model syntax
 one_int<-list(rescale~1)
 two_int<-list(rescale~1,
@@ -121,6 +119,7 @@ gg_bands<-gg_fits$data[[2]]
 
 # Raw points
 gg_pts<-gg_fits$data[[1]]
+
 #convert from julian to actual date
 gg_pts<-gg_pts %>% 
   mutate(jdate=as.Date(x, origin="2020-07-01"))

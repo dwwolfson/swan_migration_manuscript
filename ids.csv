@@ -1,0 +1,128 @@
+id,breeding_status(if cygnets=breeder; if mate=paired;else non-breeder or cygnet),mate_present,cygnets,sex,mass (kg),skull (mm),tarsus (mm),lead,breeding_lat,breeding_longitude,comments
+0A,breeder,y,5,M,11,210,124,33.3,45.055793,-93.752159,
+0C,breeder,y,4,M,12.6,201,122,34,43.207806,-93.780399,skull and tarsus seem large
+0C_2nd,breeder,y,5,M,13.1,200,131,113.3,41.9015197,-90.7588452,
+0E,paired,y,0,F,12.8,196,133,338.5,46.8046539,-93.6960743,
+0E_2nd,non_breeder,n,0,M,12.2,191,140,76,44.544246,-94.414685,
+0H,breeder,y,0,M,11.27,184.2,NA,NA,51.050226,-96.833822,
+0H_2nd,cygnet,NA,NA,F,9.6,NA,116,34.7,35.471514,-91.88002,
+0L,paired,y,0,F,12.6,195,128,28.1,46.989949,-95.981508,
+0L_2nd,paired,y,0,F,9.4,191,127,272.3,45.018178,-94.336019,
+0M,non_breeder,n,0,F,9.5,190,132,100.1,41.4623,-83.02197,
+0N,breeder,y,3,F,10.8,200,124,16,41.62445,-83.2282,
+0N_2nd,paired,y,0,M,11.7,199,135,62.7,46.242133,-96.047296,
+0P,non_breeder,n,0,M,12.05,198.44,153.4,NA,45.815115,-92.648518,
+0R,breeder,y,5,F,10,187,106,28.4,44.008855,-95.271487,
+0T,breeder,y,2,M,11.2,202,124,8.7,46.933808,-94.995488,"didn't see a mate nearby; seemed like an older bird, so breeding status unclear"
+0T_2nd,breeder,y,5,M,13.6,193,131,77.1,45.275751,-94.536974,
+1A,paired,y,0,M,13.2,210,135,21.2,45.002486,-93.611393,
+1C,breeder,y,4,M,12.2,198,126,104.2,43.12184,-93.012207,
+1E,paired,y,0,F,10.9,210,118.4,60.5,44.8678,-93.81828,
+1H,non_breeder,n,0,M,11.64,197.4,NA,NA,49.700347,-96.20328,
+1L,breeder,y,3,F,10.3,204,129,39.4,45.987785,-95.86655,
+1M,breeder,y,4,F,10.3,200,118,33.3,41.43333,-83.01498,
+1N,breeder,y,1,M,12.9,210,129,80,41.62236,-83.21336,
+1P,cygnet,NA,NA,F,9.29,NA,147,25.9,44.028,-89.296,
+1R,breeder,y,4,F,11,200,136.6,28.4,43.858343,-95.090119,
+1T,breeder,y,5,F,9.8,186,132,24.5,47.50938,-95.78446,
+2A,breeder,y,4,F,11.5,197,135,NA,47.721362,-94.749709,
+2C,breeder,y,8,M,11.2,201.5,126.5,33.1,43.324499,-93.3664868,
+2E,paired,y,0,M,12.5,214,148,305.3,46.5360944,-96.20328,4 swans on small lake; 3 molting at same time
+2H,non_breeder,n,0,F,9.45,184.3,NA,NA,49.700347,-93.885301,
+2H_2nd,breeder,y,3,F,10.4,195,125,21.6,46.64434,-84.682521,in large group of swans (23 present; 17 in molt)
+2J,breeder,y,2,F,9.35,198,128,NA,45.712552,-86.11812,in large group of 13 molting swans
+2K,breeder,y,5,F,12.7,210,121,NA,46.309654,-95.658605,
+2L,non_breeder,n,0,M,11,194,129,116.2,47.098069,-83.0289,
+2M,breeder,y,5,M,12.4,205,128,39.8,41.46111,-83.20747,
+2N,breeder,y,1,F,9.4,195,119,107.4,41.62871,-89.296,
+2P,cygnet,NA,NA,F,7.06,NA,142.5,26.3,44.028,-94.410654,6 eggs; didn't hatch; infertile eggs
+2R,breeder,y,1,F,10.6,199,119,209.7,44.54568,-94.418528,
+2T,breeder,y,1,M,11.4,203,128,28.4,46.153865,-95.66579,
+3A,non_breeder,n,0,F,13.1,198,152,NA,46.96702,-91.928879,produced 3 cygnets in 2021
+3C,breeder,y,5,M,12,201.8,126,142.9,41.796812,-93.686421,
+3E,breeder,y,3,M,13,200,148,22.5,44.882535,-95.875973,"only 1 swan observed, but 2 swans there earlier in year and have nested sucessfully before"
+3H,breeder,y,4,F,9.5,186.6,101.5,NA,49.599171,-83.885587,
+3J,breeder,y,3,F,10.1,194,120,NA,45.008628,-86.136235,
+3K,non_breeder,n,0,F,9.42,190,123,NA,46.294051,-96.399557,"captured swan was lighter weight and grey, so many SY"
+3L,breeder,y,2,F,9.9,192,121,19.4,47.445539,-83.00233,
+3M,paired,y,0,F,10.6,198,129,93.1,41.43033,-83.2209,
+3N,non_breeder,n,0,F,10.4,195,130,62.7,41.62079,-89.296,
+3P,cygnet,NA,NA,F,8.25,NA,148.5,26.4,44.028,-95.382517,
+3R,breeder,y,3,F,9.4,192,112,46.7,43.965941,-94.758631,
+3T,non_breeder,n,0,F,10.2,191,126,541.5,46.105333,-94.942478,
+4A,paired,y,0,F,12.8,260,153,NA,47.49753,-92.0700803,
+4C,breeder,y,5,M,11.6,200,125.5,206.6,43.3214114,-95.858272,
+4E,non_breeder,n,0,M,11.7,189,130,342,48.48005,-95.44075,
+4H,non_breeder,n,0,M,11.05,192.4,118.2,NA,50.602661,-84.27195,
+4J,breeder,y,2,F,9.96,194,127,NA,43.7949,-85.953877,
+4K,breeder,y,1,F,10.83,187,122,NA,46.291574,-95.683891,
+4L,breeder,y,2,M,10.8,202,136,21,46.90478,-83.194573,
+4M,non_breeder,n,0,M,10,190,129,211.4,40.555457,-83.36927,
+4N,breeder,y,2,F,10.7,190,126,21.8,40.70984,-92.626214,
+4P,cygnet,NA,NA,M,7.5,178.4,150.51,6.1,45.846744,-94.361236,
+4R,breeder,y,4,F,11,199,125,129.2,47.548893,-93.75311,
+4T,breeder,y,2,F,10.4,192,140,1076.3,47.27225,-95.933853,
+5A,non_breeder,NA,NA,F,11.7,200,148,NA,48.482692,-94.8690244,
+5C,breeder,y,2,M,12.2,210.2,123.1,30.3,43.2926886,-96.014582,
+5E,breeder,y,2,F,12.2,188,126,72.3,48.956299,-95.308611,
+5H,NA,n,0,F,9.86,193.8,110,NA,50.830895,-96.82546,1 of 3 cygnets in family
+5H_2nd,breeder,y,0,M,NA,NA,NA,NA,51.050226,-85.739031,
+5J,breeder,y,6,F,11.2,200,125,NA,44.401589,-85.574128,
+5K,breeder,y,2,F,9.45,184,116,NA,46.356399,-92.471589,
+5L,cygnet,NA,NA,F,6.4,151,107,7.2,47.694633,-80.897926,
+5M,breeder,y,3,F,9.3,190,121,130.4,41.440813,-83.31952,
+5N,breeder,y,6,F,9.5,185,124,52,40.72501,-90.09283,
+5P,breeder,y,7,F,9.05,194,144,21.3,46.14319,-94.367102,
+5R,paired,y,0,F,8.7,185,127,75.8,46.766629,-95.191584,
+5T,breeder,y,4,F,9.8,200,125,20.3,45.399181,-93.344731,
+6A,breeder,y,3,F,10.4,208,153,NA,46.54242,-93.491985,
+6C,breeder,y,4,M,11.6,206.1,128.5,34,43.2719248,-94.32537,
+6C_2nd,breeder,Y,1,M,12,200.4,127.4,136.4,41.77764,-94.32537,
+6E,non_breeder,n,0,M,14.2,212,142,66.2,46.634439,-92.776876,1 of 6 cygnets in group; no skull length; tarsus seems to big for cygnet
+6H,breeder,n,0,M,13,200,132.1,NA,49.17177,-95.480271,1 of 6 cygnets in group; no skull length; tarsus seems to big for cygnet
+6J,breeder,y,2,M,12.7,212,123,NA,42.9482565,-85.1445124,1 of 6 cygnets in group; no skull length; tarsus seems to big for cygnet
+6K,breeder,y,2,F,11.2,190,125,NA,46.233807,-85.70311,tarsus seems too large; might have measured differently
+6L,breeder,y,1,M,12.4,205,136,26.6,48.342056,-92.923356,tarsus seems too large; might have measured differently
+6L_2nd,paired,y,0,F,13.3,186,126,107.7,46.842248,-93.217903,
+6M,non_breeder,n,0,F,9,185,114,83.1,41.4604145,-80.836771,
+6N,breeder,y,2,F,9.9,195,125,58.4,40.71111,-83.29391,
+6P,breeder,y,1,F,10,187,133,48.4,46.103775,-95.734061,
+6R,paired,y,0,M,12.5,198,119,150.8,46.824104,-94.152856,
+6R_2nd,paired,y,0,F,9.8,186,139,94.5,44.67474,-93.936177,tarsus seems too large; might have measured differently
+6T,non_breeder,n,0,M,11.5,188,131,68,45.480052,-93.702469,
+7A,breeder,y,6,F,NA,208,150,NA,47.049928,-94.924069,
+7C,breeder,y,4,M,12,219.6,128,27.2,43.2859292,-93.4644565,
+7E,breeder,y,5,F,10.2,200,126.5,36.1,43.933905,-94.861006,
+7H,paired,y,0,M,12.09,198.7,126.4,NA,49.653416,-96.225019,large group of swans on the lake
+7J,breeder,y,2,M,12.75,209,135,NA,42.3049808,-85.3389189,
+7K,breeder,y,3,M,13.4,205,125,113.1,44.36273286,-83.46826502,
+7L,breeder,y,1,M,12.8,NA,120,86.3,50.58,-95.25,
+7M,non_breeder,n,0,F,9.3,195,116,143.2,41.4604145,-80.836771,
+7N,breeder,y,5,M,13.2,200,129,105.4,40.58738,-83.29928,tarsus seems too large; might have measured differently
+7P,non_breeder,n,0,M,9.1,196,151,72.1,45.81625,-92.6461,tarsus seems too large; might have measured differently
+7R,breeder,y,5,F,10.8,193,121,42.9,47.660391,-94.748534,tarsus seems too large; might have measured differently
+7T,breeder,y,6,F,10,189,128,40.3,45.108924,-96.08885,
+8A,paired,y,0,F,10.25,217,144,63.8,44.817844,-93.2286863,
+8C,breeder,y,5,M,12.4,201.7,126,14.5,42.9356562,-95.4885453,
+8E,non_breeder,n,0,M,13.6,212,134.5,32.3,46.9190281,-93.5191427,recap to replace 0H cracked collar; no measurements 2nd time
+8E_2nd,non_breeder,n,0,F,10.2,195,123,90.9,45.101268,-94.629201,
+8H,paired,y,0,F,8.59,195.4,126.1,NA,50.291275,-95.697579,
+8L,paired,y,0,F,10.9,NA,117,191.2,49.48,-92.11,
+8M,breeder,y,1,F,8.7,190,122,93.1,41.422667,-80.806029,
+8N,non_breeder,n,0,F,8.7,189,132,113.5,41.00855,-81.96515,
+8P,non_breeder,n,0,F,11.07,211,158,256.4,45.81625,-92.6461,
+8R,paired,y,0,F,12,192.5,138.4,103.3,47.500505,-94.954397,
+8T,paired,y,0,F,11.5,200,144,83.8,47.57929,-94.46577,
+9A,breeder,y,1,F,10.4,190,139,NA,45.002535,-93.626971,
+9C,breeder,y,2,F,9,200.2,125.82,21.5,43.472908,-95.062969,
+9E,paired,y,0,F,10.4,200.1,125.4,107.5,46.8419568,-93.2178857,
+9H,breeder,y,4,M,13.05,201.7,127.4,NA,49.174954,-99.481547,
+9H_2nd,breeder,y,3,M,12.6,185,132,29.4,46.93839,-93.523546,
+9J (first deployment),breeder,y,1,F,10.8,200,120,NA,42.259404,-85.350384,"cloaca clenched, may be male"
+9J (swan originally collared as 5J),breeder,y,1,F,11.68,207,129,15.8,44.38976643,-85.74935566,potential breeder
+9L,breeder,y,1,F,11.2,NA,116,169.1,52.25,-92.07,
+9M,paired,y,0,M,11.3,200,129,30.6,41.067061,-81.607297,
+9N,breeder,y,3,F,9,193,124,114.5,40.3749276,-83.0363433,
+9P,paired,y,0,F,10.35,194.73,153.98,19.7,44.34275,-90.15958,
+9R,non_breeder,y,0,M,8.9,181,129,118.5,47.025037,-94.537675,
+9T,breeder,y,2,F,10.2,188,133,NA,47.37327,-95.31979,
