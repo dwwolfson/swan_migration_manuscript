@@ -32,39 +32,35 @@ param_df<-param_df %>%
 fall_lmer<-lmer(fall_mig_onset~sex+breeding_status+breeding_lat+
                   (1|swan_ID),
                 data=param_df)
-# The random effect variance is 0, so switch to LM instead of LMM
-fall_lm<-lm(fall_mig_onset~sex+breeding_status+breeding_lat,
-            data=param_df)
 
 ####################################################
 # Spring arrival
 spring_lmer<-lmer(spring_arrival~sex+breeding_status+breeding_lat+
                     (1|swan_ID), 
                   data=param_df)
-# The variance of the random effect is not 0, so I'll keep the mixed model.
+
 
 ####################################################
 # Migration duration
 duration_lmer<-lmer(mig_duration~sex+breeding_status+breeding_lat+
                       (1|swan_ID),
                     data=param_df)
-# The random effect variance is 0, so switch to LM instead of LMM
-
-duration_lm<-lm(mig_duration~sex+breeding_status+breeding_lat,
-                data=param_df)
-###########################################################################
+#####################################################
 # Plot model coefficients
-
-p1<-plot_model(fall_lm,
+p1<-plot_model(fall_lmer,
                axis.labels=c('Breeding\\Capture Latitude', 'Paired', 'Non-Breeder', 'Sex'),
                vline.color="black",
                line.size=1.5, 
-               dot.size=4)+
-  theme_pubr()+
+               dot.size=4,
+               order.terms = c(1,2,3,4),
+               group.terms=c(1,2,3,4),
+               colors = c("purple", "orange", "purple", "orange"))+
+  theme_pubclean()+
+  ylim(-32,36)+
   labs(y="")+
   ggtitle("Autumn Departure")+
   theme(plot.title = element_text(hjust=0.5, size=20),
-        text=element_text(size=20, colour="black"),
+        text=element_text(size=20, colour="black", face='bold'),
         panel.grid.major = element_line(colour="lightgrey"),
         panel.border = element_blank(),
         axis.line=element_line(colour="black"))
@@ -73,33 +69,42 @@ p2<-plot_model(spring_lmer,
                axis.labels=c('Breeding\\Capture Latitude', 'Paired', 'Non-Breeder', 'Sex'),
                vline.color="black",
                line.size=1.5, 
-               dot.size=4)+
-  theme_pubr()+
+               dot.size=4,
+               order.terms = c(1,2,3,4),
+               group.terms=c(1,2,3,4),
+               colors = c("purple", "purple", "purple", "orange"))+
+  theme_pubclean()+
+  ylim(-32,36)+
   labs(y="")+
   ggtitle("Spring Arrival")+
   theme(plot.title = element_text(hjust=0.5, size=20),
-        text=element_text(size=20, colour="black"),
+        text=element_text(size=20, colour="black", face='bold'),
         panel.grid.major = element_line(colour="lightgrey"),
         panel.border = element_blank(),
         axis.line=element_line(colour="black"))
 
-p3<-plot_model(duration_lm,
+p3<-plot_model(duration_lmer,
                axis.labels=c('Breeding\\Capture Latitude', 'Paired', 'Non-Breeder', 'Sex'),
                vline.color="black",
                line.size=1.5, 
-               dot.size=4)+
-  theme_pubr()+
+               dot.size=4,
+               order.terms = c(1,2,3,4),
+               group.terms=c(1,2,3,4),
+               colors = c("purple", "purple", "purple", "orange"),
+               show.p=T)+
+  theme_pubclean()+
+  ylim(-32,36)+
   labs(y="\nCoefficient Estimates")+
-  ggtitle("Migration Duration")+
+  ggtitle("Duration of Non-Breeding Period")+
   theme(plot.title = element_text(hjust=0.5, size=20),
-        text=element_text(size=20, colour="black"),
+        text=element_text(size=20, colour="black", face='bold'),
         panel.grid.major = element_line(colour="lightgrey"),
         panel.border = element_blank(),
         axis.line=element_line(colour="black"))
 
-new_phenology<-p1/p2/p3
+phenology<-p1/p2/p3
 
-ggsave(new_phenology, file=here("figures/figs_for_manuscript/phenology_models.tiff"),
+ggsave(phenology, file=here("figures/phenology_models.tiff"),
        dpi=300, compression="lzw")
 
 
