@@ -10,7 +10,6 @@ if (any(installed_packages == FALSE)) {
 # load packages
 invisible(lapply(packages, library, character.only = TRUE))
 
-source(here("scripts/ggplot_custom_function.R"))
 
 # read in full dataset
 df <- read_csv(here("data/full_dataset_4_28_2023/full_w_nsd.csv"))

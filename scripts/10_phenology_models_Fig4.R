@@ -16,7 +16,7 @@ ids<-read_csv(here("ids.csv"))
 param_df<-param_df %>% 
   left_join(., ids,
             by=c("swan_ID" = "id")) %>% 
-  select(-mate_present, -'mass (kg)', -'skull (mm)',-'tarsus (mm)', -comments) %>% 
+  select(-mate_present, -'mass (kg)', -'skull (mm)',-'tarsus (mm)') %>% 
   rename(breeding_status="breeding_status(if cygnets=breeder; if mate=paired;else non-breeder or cygnet)",
          id_year=year)
 

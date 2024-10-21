@@ -67,7 +67,6 @@ exclude<-c(
 ids<-read_csv(here("ids.csv"))
 df<-df %>% 
   left_join(., ids) %>% 
-  select(-comments) %>% 
   rename(breeding_status="breeding_status(if cygnets=breeder; if mate=paired;else non-breeder or cygnet)",
          mass='mass (kg)', skull='skull (mm)')
 

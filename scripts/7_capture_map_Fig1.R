@@ -16,6 +16,8 @@ invisible(lapply(packages, library, character.only = TRUE))
 # read in capture points
 df<-read_csv(here("data/capture_coordinates.csv"))
 
+# download the following raster at www.naturalearthdata.com
+
 # pull in raster to use as basemap
 earth<-terra::rast("data/NE1_50M_SR_W/NE1_50M_SR_W.tif")
 

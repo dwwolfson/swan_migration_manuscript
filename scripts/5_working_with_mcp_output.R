@@ -18,7 +18,7 @@ mod_df<-mod_df %>%
   filter(!id%in%c("7L", "8L", "9L")) # Arkansas captures (flipped NSD pattern) don't fit pipeline
 
 # these are the assessments of whether the mcp fit is adequate to extract model parameters
-assess<-read_csv(here("mcp_assessment.csv"))
+assess<-read_csv(here("data/mcp_assessment.csv"))
 
 for (i in seq_along(ids)) {
   
@@ -187,7 +187,7 @@ ids<-read_csv(here("ids.csv"))
 param_df<-param_df %>% 
   left_join(., ids,
             by=c("swan_ID" = "id")) %>% 
-  select(-mate_present, -'mass (kg)', -'skull (mm)',-'tarsus (mm)', -comments) %>% 
+  select(-mate_present, -'mass (kg)', -'skull (mm)',-'tarsus (mm)') %>% 
   rename(breeding_status="breeding_status(if cygnets=breeder; if mate=paired;else non-breeder or cygnet)",
          id_year=year)
 

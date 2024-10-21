@@ -13,7 +13,6 @@ if (any(installed_packages == FALSE)) {
 
 # load packages
 invisible(lapply(packages, library, character.only = TRUE))
-source(here("ggplot_custom_function.R"))
 options(scipen = 999)
 
 registerDoFuture()

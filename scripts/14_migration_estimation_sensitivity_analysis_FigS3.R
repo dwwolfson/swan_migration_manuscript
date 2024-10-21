@@ -39,7 +39,7 @@ mod_df<-mod_df %>%
   filter(!id%in%c("7L", "8L", "9L")) # Arkansas captures don't fit pipeline
 
 # these are the assessments of whether the mcp fit is adequate to extract model parameters
-assess<-read_csv(here("mcp_assessment.csv"))
+assess<-read_csv(here("data/mcp_assessment.csv"))
 
 # loop by values of fall onset threshold
 for (k in seq_along(fall_onset_threshold)){
@@ -172,7 +172,7 @@ mod_df<-mod_df %>%
   filter(!id%in%c("7L", "8L", "9L")) # Arkansas captures don't fit pipeline
 
 # these are the assessments of whether the mcp fit is adequate to extract model parameters
-assess<-read_csv(here("mcp_assessment.csv"))
+assess<-read_csv(here("data/mcp_assessment.csv"))
 
 # loop by values of spring proximity threshold
 for (k in seq_along(spring_proximity_threshold)){               
