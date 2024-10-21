@@ -90,6 +90,9 @@ df<-df %>%
                         ifelse(max_nsd>25&max_nsd<100, "regional",
                                ifelse(max_nsd>100, "long-distance","flag"))))
   
+# write output to file
+# write_csv(df, here("output/post_march_2024/migration_categories.csv"))
+
 df %>% 
   group_by(mig_cat) %>% 
   summarise(count=n(),

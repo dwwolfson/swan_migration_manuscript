@@ -23,7 +23,7 @@ df <- df %>%
   group_by(id) %>%
   mutate(swan_yr = ifelse(yday < 182, paste(id, year - 1, year, sep = "-"),
                           paste(id, year, year + 1, sep = "-")
-  )) # 182 is julian day for july 1
+  )) # 182 is ordinal day for july 1
 
 original_swan_yrs<-unique(df$swan_yr)
 original_ids<-unique(df$id)

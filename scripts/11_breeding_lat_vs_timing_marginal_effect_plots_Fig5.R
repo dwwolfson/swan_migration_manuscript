@@ -90,7 +90,7 @@ duration_plot<-duration_marg+
         plot.title=element_text(size=17),
         panel.grid.major = element_line(colour="lightgrey"))+
   #aspect.ratio = 1)+
-  ggtitle("C) Duration of Non-Breeding Period")+coord_fixed(ratio=.08)
+  ggtitle("C) Duration of Nonbreeding Period")+coord_fixed(ratio=.08)
 
 
 fall_plot+spring_plot+duration_plot
@@ -98,8 +98,8 @@ fall_plot+spring_plot+duration_plot
 
 
 
-marginals<-fall_plot+spring_plot+duration_plot+plot_layout(widths=c(1,1,1), heights=c(1,1,1))
+#marginals<-fall_plot+spring_plot+duration_plot+plot_layout(widths=c(1,1,1), heights=c(1,1,1))
 
 marginals<-fall_plot+spring_plot+duration_plot
-ggsave(marginals, file=here("figures/figs_for_manuscript/post_march_2024/marginal_effect_plots.tiff"),
+ggsave(marginals, file=here("figures/marginal_effect_plots.tiff"),
        dpi=300, compression="lzw")

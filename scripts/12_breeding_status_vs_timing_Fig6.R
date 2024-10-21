@@ -49,7 +49,7 @@ autumn_onset<-p_dates %>%
   filter(breeding_status%in%c("breeder", "non_breeder", "paired")) %>% 
   mutate(breeding_status=fct_relevel(breeding_status, "breeder", "paired", "non_breeder")) %>% 
   ggplot(., aes(breeding_status, fall_mig_onset,fill=breeding_status))+
-  scale_x_discrete(labels=c("Breeder", "Paired", "Non-Breeder"))+
+  scale_x_discrete(labels=c("Breeder", "Paired", "Nonbreeder"))+
   geom_boxplot(outlier.shape = NA)+
   scale_y_date(date_labels = "%b %d")+
   geom_jitter(width = 0.1)+
@@ -69,7 +69,7 @@ spring_arrival<-p_dates %>%
   filter(breeding_status%in%c("breeder", "non_breeder", "paired")) %>% 
   mutate(breeding_status=fct_relevel(breeding_status, "breeder", "paired", "non_breeder")) %>% 
   ggplot(., aes(breeding_status, spring_arrival,fill=breeding_status))+
-  scale_x_discrete(labels=c("Breeder", "Paired", "Non-Breeder"))+
+  scale_x_discrete(labels=c("Breeder", "Paired", "Nonbreeder"))+
   geom_boxplot(outlier.shape = NA)+
   scale_y_date(date_labels = "%b %d")+
   geom_jitter(width = 0.1)+
@@ -89,7 +89,7 @@ breeding_duration<-p_dates %>%
   filter(breeding_status%in%c("breeder", "non_breeder", "paired")) %>% 
   mutate(breeding_status=fct_relevel(breeding_status, "breeder", "paired", "non_breeder")) %>% 
   ggplot(., aes(breeding_status, mig_duration,fill=breeding_status))+
-  scale_x_discrete(labels=c("Breeder", "Paired", "Non-Breeder"))+
+  scale_x_discrete(labels=c("Breeder", "Paired", "Nonbreeder"))+
   geom_boxplot(outlier.shape = NA)+
   geom_jitter(width = 0.1)+
   scale_fill_manual(values = c("#00AFBB", "#E7B800", "#FC4E07"))+
@@ -102,11 +102,11 @@ breeding_duration<-p_dates %>%
         text=element_text(size=18, face='bold'),
         axis.text.x=element_text(angle=-25, vjust=0.5),
         panel.grid.major = element_line(colour="lightgrey"))+
-  ggtitle("C) Duration of Non-Breeding Period")
+  ggtitle("C) Duration of Nonbreeding Period")
 
 autumn_onset+spring_arrival+breeding_duration
 
 breeding_timing<-autumn_onset+spring_arrival+breeding_duration
 
-ggsave(here("figures/figs_for_manuscript/breeding_timing.tiff"),
+ggsave(here("figures/breeding_timing.tiff"),
        dpi=300, compression="lzw")

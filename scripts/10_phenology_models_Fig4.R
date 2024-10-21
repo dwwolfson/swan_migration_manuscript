@@ -48,7 +48,7 @@ duration_lmer<-lmer(mig_duration~sex+breeding_status+breeding_lat+
 #####################################################
 # Plot model coefficients
 p1<-plot_model(fall_lmer,
-               axis.labels=c('Breeding\\Capture Latitude', 'Paired', 'Non-Breeder', 'Sex'),
+               axis.labels=c('Breeding\\Capture Latitude', 'Paired', 'Nonbreeder', 'Sex'),
                vline.color="black",
                line.size=1.5, 
                dot.size=4,
@@ -66,7 +66,7 @@ p1<-plot_model(fall_lmer,
         axis.line=element_line(colour="black"))
 
 p2<-plot_model(spring_lmer,
-               axis.labels=c('Breeding\\Capture Latitude', 'Paired', 'Non-Breeder', 'Sex'),
+               axis.labels=c('Breeding\\Capture Latitude', 'Paired', 'Nonbreeder', 'Sex'),
                vline.color="black",
                line.size=1.5, 
                dot.size=4,
@@ -84,7 +84,7 @@ p2<-plot_model(spring_lmer,
         axis.line=element_line(colour="black"))
 
 p3<-plot_model(duration_lmer,
-               axis.labels=c('Breeding\\Capture Latitude', 'Paired', 'Non-Breeder', 'Sex'),
+               axis.labels=c('Breeding\\Capture Latitude', 'Paired', 'Nonbreeder', 'Sex'),
                vline.color="black",
                line.size=1.5, 
                dot.size=4,
@@ -95,7 +95,7 @@ p3<-plot_model(duration_lmer,
   theme_pubclean()+
   ylim(-32,36)+
   labs(y="\nCoefficient Estimates")+
-  ggtitle("Duration of Non-Breeding Period")+
+  ggtitle("Duration of Nonbreeding Period")+
   theme(plot.title = element_text(hjust=0.5, size=20),
         text=element_text(size=20, colour="black", face='bold'),
         panel.grid.major = element_line(colour="lightgrey"),
